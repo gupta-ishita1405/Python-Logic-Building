@@ -4,4 +4,4 @@ sum=1
 for i in range(1,n+1):
     sum=sum*i
     print(i)
-print("factorial no.:",sum)
+print("factorial 10no.:",sum)
